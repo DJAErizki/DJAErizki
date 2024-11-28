@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/rizkidjaelani" target="djaeikky@gmail.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/rizki-d-6587b1319/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/rizki-d-6587b1319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
   </a>
 </div>
 
