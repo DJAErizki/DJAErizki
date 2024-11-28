@@ -1,137 +1,76 @@
-# Hello there, I'm Djae <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=djaelani.djaelani" />
 
-I'm a passionate **Web Developer** and **Mobile App Enthusiast** with a strong interest in building **modern**, **responsive**, and **user-friendly applications**. I enjoy designing intuitive interfaces, creating secure systems, and exploring new technologies.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Djae!;" />
+</h1>
 
----
+<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
-### 💻 **What I'm Interested In**
-- Developing **scalable web applications**.
-- Exploring **modern mobile frameworks** like Flutter.
-- Building **secure backend systems** with Laravel.
-- Experimenting with **CSS frameworks** like Tailwind CSS for efficient UI design.
-
----
-
-### 🛠️ **Currently Working On**
-- **Kocek**: A digital wallet app built with Flutter.  
-- **Gamatara**: A web app using Next.js, Sass, and Bootstrap.  
-- Enhancing skills in backend development and API integrations.  
-
----
-
-### 📚 **What I'm Learning**
-- Advanced **Flutter widgets** for mobile app design.  
-- Mastering **backend logic** with Laravel and Node.js.  
-- Building **responsive web designs** with Tailwind CSS and Sass.  
-- Exploring **cloud integrations** for scalable apps.
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
-<br><br>
-
----
+<br/>
 
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Passionate+Web+Developer;Mobile+App+Enthusiast;Always+Exploring+New+Technologies" 
-    alt="Typing SVG" 
-  />
+ 
+ 🔭 I’m currently working on **Kocek and Gamatara projects**
+ 
+ 🌱 I’m currently learning **Flutter, Laravel, and Backend Development**
+
+ 💬 Ask me about **Next.js, Tailwind CSS, Firebase, Laravel... or anything [here](https://github.com/djaelani/djaelani/issues)**
+
+ ⚡ Fun fact **I enjoy basketball and gym sessions!**
+
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:rizkidjaelani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/rizkidjaelani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://djae-portfolio.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
 
----
+<hr/>
 
-### 🛠️ Technologies & Tools  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,vscode,github,figma,tailwind,git,laravel" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,firebase,mysql,flutter,nextjs,python" /><br>
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel logo" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
+<br/>
+<hr/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!" alt="Typing SVG" />
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/djaelani/djaelani/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
----
+<hr/>
 
-<picture align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=djaelani&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=djaelani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaelani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
