@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Kocek and Gamatara projects**
+ 🔭 I’m currently working on **Kocek and Dfarmdream projects**
  
  🌱 I’m currently learning **Flutter, Laravel, and Backend Development**
 
- 💬 Ask me about **Next.js, Tailwind CSS, Firebase, Laravel... or anything [here](https://github.com/DJAErizki/DJAErizki/issues)**
+ 💬 Ask me about **Next.js, Tailwind CSS, Firebase, Laravel, Flutter**
 
  ⚡ Fun fact **I enjoy basketball and gym sessions!**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,vscode,github,figma,tailwind,git,laravel" />
-    <img src="https://skillicons.dev/icons?i=javascript,postgresql,sass,php,firebase,mysql,flutter,nextjs,python" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,vscode,github,php,tailwind,git,laravel" />
+    <img src="https://skillicons.dev/icons?i=javascript,postgresql,sass,firebase,mysql,flutter,nextjs,python" /><br>
 </div>
 
 <br/>
