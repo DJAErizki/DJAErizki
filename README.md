@@ -41,8 +41,19 @@
 <br/>
 <hr/>
 
-<div align="left" style="background-color: #000;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DJAErizki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJAErizki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-  <br clear="both">
+<div align="center" style="background-color: #000; padding: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DJAErizki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" 
+    height="150" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DJAErizki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false" 
+    height="150" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Backend+Developer;Flutter+Enthusiast;Creative+Web+Developer;Passionate+about+UI%2FUX" 
+    alt="Typing SVG" />
 </div>
