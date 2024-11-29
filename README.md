@@ -46,13 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJAErizki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages" />
   <br clear="both">
 </div>
-
----
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F28C28&width=500&lines=Creative+Full-Stack+Developer;Backend+Development+Enthusiast;Responsive+and+Modern+Layouts;Passionate+about+User+Experience" 
-    alt="Typing SVG" 
-  />
-</div>
-
