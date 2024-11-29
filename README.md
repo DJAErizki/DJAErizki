@@ -52,8 +52,8 @@
 
 ---
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Backend+Developer;Flutter+Enthusiast;Creative+Web+Developer;Passionate+about+UI%2FUX" 
     alt="Typing SVG" />
-</div>
+</div> 
