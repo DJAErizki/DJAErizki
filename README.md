@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Laravel, and Backend Development**
 
- 💬 Ask me about **Next.js, Tailwind CSS, Firebase, Laravel, Flutter**
+ 💬 Ask me about **Firebase, Laravel, Flutter**
 
  ⚡ Fun fact **I enjoy basketball and gym sessions!**
 
